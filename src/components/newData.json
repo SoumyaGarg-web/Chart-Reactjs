@@ -1,0 +1,51 @@
+[{
+    "date" : "2013-08-01",
+    "y": 100,
+    "transaction_amount": 290875,
+    "category" : "food"
+
+},
+{
+    "date" : "2016-08-01",
+    "y": 200,
+    "transaction_amount" : 35479,
+    "category" : "food"
+},
+{
+    "date" : "2013-09-05",
+    "y": 250,
+    "transaction_amount" : 290875,
+    "category" : "travel"
+},
+{
+    "date" : "2002-08-01",
+    "y":420,
+    "transaction_amount" : 35479,
+    "category" : "travel"
+},
+{
+    "date" : "2021-03-01",
+    "y": 300,
+    "transaction_amount" : 35479,
+    "category" : "food"
+},
+{
+    "date" : "2009-08-24",
+    "y": 300,
+    "transaction_amount" : 35479,
+    "category" : "sports"
+},
+{
+    "date" : "2011-12-17",
+    "y": 300,
+    "transaction_amount" : 35479,
+    "category" : "sports"
+},
+{
+    "date" : "2007-10-29",
+    "y": 300,
+    "transaction_amount" : 35479,
+    "category" : "sports"
+}
+
+]
